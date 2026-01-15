@@ -22,5 +22,7 @@ This project represents a modern bakery website where users can explore cakes, v
 - CSS3  
 
 ---
+## Live Demo
+View Website:
 
-## 📂 Project Structure
+
